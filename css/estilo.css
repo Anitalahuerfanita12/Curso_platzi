@@ -11,3 +11,10 @@ body
     border: 1px solid #000000;
     margin: 0 auto;
 }
+#cabecera
+{
+    background-color: aquamarine;
+    text-decoration: double;
+
+
+}
