@@ -9,10 +9,19 @@ body
     padding: 1em;
     text-align: left;
     border: 1px solid #000000;
+    border-style: groove;
     margin: 0 auto;
 }
 #cabecera
 {
     background-color: aquamarine;
     text-decoration: double;
+}
+#logo
+{
+    width: 5%;
+    height: 10%;
+    vertical-align: middle;
+    background-color: aqua;
+    
 }
