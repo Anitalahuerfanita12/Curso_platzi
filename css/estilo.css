@@ -16,3 +16,12 @@ body
     background-color: aquamarine;
     text-decoration: double;
 }
+
+#footer
+{
+    background-color: blueviolet;
+    border-radius: 10%;
+    border: 2px;
+    text-decoration: solid;
+    background-position: 50%;
+}
